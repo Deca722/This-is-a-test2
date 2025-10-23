@@ -1,0 +1,15 @@
+list = [1, 34, 3, 444, 5,26, 7, 238, 9]
+print(list)
+list.append(10)
+print(list)
+lenth = len(list)
+print(lenth)
+s = "asdasdfg"
+print(s.upper())
+print(s)
+list.remove(1)
+print(list)
+print(list[0])
+print(max(list))
+print(min(list))
+print(sorted(list))
